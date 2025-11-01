@@ -8,24 +8,26 @@ html, body {
   justify-content: center;
   align-items: center;
 }
+
 .card {
-  height: 70vh;
   width: 300px;
   background-color: #fff;
   border-radius: 15px;
   text-align: center;
-  flex-wrap: wrap;
+  padding: 15px;
 }
+
 .card img {
-  height: 43vh;
-  width: 270px;
-  border-radius: 15px;
-  margin-top: 15px;
+  width: 100%; 
+  border-radius: 12px;
+  margin-top: 0; 
 }
+
 .card p {
   font-size: 15px;
   color: hsl(216, 15%, 48%);
 }
+
 .card h1 {
   font-size: 18px;
   color: hsl(218, 44%, 22%);
