@@ -34,3 +34,6 @@ html, body {
   font-size: 18px;
   color: hsl(218, 44%, 22%);
 }
+.attribution {
+  margin-top: 30px;
+}
