@@ -16,6 +16,5 @@ I practiced how to make responsive layout using flexbox and improved my CSS stru
 
 ## Author
 
-- Website - [Ighoroje Oghenekome](https://qr-code-five-snowy.vercel.app/)
 - Frontend Mentor - [Ighoroje Oghenekome](https://www.frontendmentor.io/profile/Ighoroje Oghenekome)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
