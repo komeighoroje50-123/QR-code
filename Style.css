@@ -32,7 +32,7 @@ html, body {
 
 .card h1 {
   font-size: 18px;
-  font-weight: 700;
+  font-weight: 700px;
   color: hsl(218, 44%, 22%);
 }
 .attribution {
